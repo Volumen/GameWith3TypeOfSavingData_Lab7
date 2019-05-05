@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab7</string>
+    <string name="gracz_1">Gracz 1</string>
+    <string name="gracz_2">Gracz 2</string>
+    <string name="pkt1">PKT: 0</string>
+    <string name="pkt2">PKT: 0</string>
+    <string name="game_history">Game History</string>
+    <string name="game">Game</string>
+    <string name="current_state_of_game">CURRENT STATE OF GAME</string>
+</resources>
