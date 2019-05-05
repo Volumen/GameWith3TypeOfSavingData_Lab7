@@ -1,4 +1,4 @@
-# GameWith3TypeOfSavingData_Lab7
+# GameWith3TypeOfSavingData
 Simple game that uses 3 tipe of data storage
 
 A circle divided into two parts is drawn on the screen. 
