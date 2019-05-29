@@ -1,5 +1,5 @@
 # GameWith3TypeOfSavingData
-Simple game that uses 3 tipe of data storage
+Simple game that uses 3 tipe of data storage on Android OS
 
 A circle divided into two parts is drawn on the screen. 
 After the start, the game waits randomly for a few seconds and displays a toast "start". 
